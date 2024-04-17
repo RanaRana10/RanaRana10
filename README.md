@@ -2,9 +2,7 @@
 <h3 align="center">I am a Noob Person 😜😜😜</h3>
 
 - 🔭 I’m currently working on [My Own Universe](https://t.me/RanaUniverse)
-- 🔭 I’m currently working on [My Own Universe](https://t.me/RanaUniverse)
-- 
-
+  
 - 🌱 I’m currently learning **Making my Own Universe 💪**
 
 - 💬 Message Me about anything in **Telegram Account**(https://t.me/RanaUniverse)
