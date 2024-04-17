@@ -24,3 +24,7 @@
     <br>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
+
+<img align="center" alt="Rana Universe 🍌🍌🍌" width="400" src="https://te.legra.ph/file/e92f33d0a271dc2e7ac71.png">
+
+- 🍌 I’m currently learning **Rana Univeres**
