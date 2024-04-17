@@ -36,10 +36,10 @@
 
 
 - 🍌 I’m currently learning **Rana Univeres**
-- <h3>Having A Lot of Money To Waste 😜😜😜 </h3>
+- <h3>Have You A Lot of Money To Waste 😜😜😜 </h3>
 <br>
-<img align="center" alt="UPI ID: RanaUniverse@upi" src = "https://te.legra.ph/file/43d6e750e7b036ddded26.png"
-<img align="center" alt="UPI ID: RanaUniverse@upi" src = "https://te.legra.ph/file/fe1b1be1ea956b316721e.png"
+<img align="center" alt="UPI ID: RanaUniverse@upi" src = "https://te.legra.ph/file/43d6e750e7b036ddded26.png">
+<img align="center" alt="UPI ID: RanaUniverse@upi" src = "https://te.legra.ph/file/fe1b1be1ea956b316721e.png">
 - 😜😜😜 If You want to **Waste your Money**, Just Send it to My QR Code Above 😜😜😜
 
 - <h2>Thanks For Wasting Your Time By Reading This 🍌🍌🍌 </h2>
