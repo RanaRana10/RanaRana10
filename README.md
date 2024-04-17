@@ -21,10 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
   This is The Some Programming Language Loved By 🍌🍌🍌
   <br>
-- 💬 Message Me about anything in My [**Telegram Account**](https://t.me/RanaUniverse)
-  <br>
   [**Razorblade23**](https://github.com/razorblade23)
-  [**Telegram Account**](https://t.me/RanaUniverse)
+
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a>
     <br>
@@ -38,3 +36,5 @@
 <img align="center' alt="UPI ID: RanaUniverse@upi" src = "https://te.legra.ph/file/43d6e750e7b036ddded26.png"
 
 - 😜😜😜 If You want to Waste your Money, Just Send it to My QR Code Above 😜😜😜
+
+- <h2>Thanks For Wasting Your Time By Reading This 🍌🍌🍌 </h2>
