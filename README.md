@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Universe</h1>
 <h2 align = "center"> Welcome to my Universe </h2>
 <p align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmaFRb1WCFvJXGTW068tP3QRy9459L-L84CGVD4i1YDrBIuq5zwBrkowujrwBOMT7CRo&usqp=CAU](https://cdn.pixabay.com/animation/2024/02/13/18/38/18-38-09-301_512.gif)" alt="Profile Picture" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
