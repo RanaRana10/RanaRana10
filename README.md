@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Universe</h1>
 <h2 align = "center"> Welcome to my Universe </h2>
 <p align="center">
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/1200x400" style="width: 100">
-</div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
