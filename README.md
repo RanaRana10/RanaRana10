@@ -11,7 +11,7 @@
 
 - 📫 My Email Address: **RanaUniverse321@gmail.com** 📫
 
-<h3 align="left">Connect With Me Just For Fun:</h3>
+<h3 align="left">Do u use Facebook or Youtube:👇👇👇<br>  Connect With Me Just For Fun:</h3>
 <p align="left">
 <a href="https://fb.com/RanaUniverse" target="blank"><img align="center" src="https://te.legra.ph/file/8482deb70819cd39b9dd0.png" alt="Rana Universe Facebook" height="50" /></a>
 <br>
@@ -22,11 +22,12 @@
   This is The Some Programming Language Loved By 🍌🍌🍌
   <br>
   [**Razorblade23**](https://github.com/razorblade23)
+  <br>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="30"/> </a>
     <br>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-EE46F1FE44-seeklogo.com.png" alt="kotlin" height="30"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-EE46F1FE44-seeklogo.com.png" alt="kotlin" height="20"/> </a>
 </p>
 <br><br>
 <h2>Rana Universe 🍌🍌🍌</h2>
