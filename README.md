@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Universe</h1>
-<h2 allign = "center"> Welcome to my Universe
+<h2 align = "center"> Welcome to my Universe </h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [My Own Universe](https://t.me/RanaUniverse)
