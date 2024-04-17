@@ -28,8 +28,9 @@
     <br>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-EE46F1FE44-seeklogo.com.png" alt="kotlin" height="30"/> </a>
 </p>
+<br><br>
+<h2>Rana Universe 🍌🍌🍌</h2>
 
-<img align="center" alt="Rana Universe 🍌🍌🍌" width="400" src="https://te.legra.ph/file/e92f33d0a271dc2e7ac71.png">
 
 - 🍌 I’m currently learning **Rana Univeres**
 - <h3>Having A Lot of Money To Waste 😜😜😜 </h3>
