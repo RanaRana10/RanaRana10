@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a>
     <br>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/assets/images/apple-touch-icon.png" alt="kotlin" width="40" height="40"/> </a>
 </p>
 
 <img align="center" alt="Rana Universe 🍌🍌🍌" width="400" src="https://te.legra.ph/file/e92f33d0a271dc2e7ac71.png">
