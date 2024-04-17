@@ -19,12 +19,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
   This is The Some Programming Language Loved By 🍌🍌🍌
   <br>
   [**Razorblade23**](https://github.com/razorblade23)
   [**Telegram Account**](https://t.me/RanaUniverse)
-</p>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a>
     <br>
