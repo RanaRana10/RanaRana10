@@ -31,4 +31,4 @@
 <br>
 <img align="center' alt="UPI ID: RanaUniverse@upi" src = "https://te.legra.ph/file/43d6e750e7b036ddded26.png"
 
-- 😜😜😜 If You want to Waste your Money, Just Send it to My QR Code Above 😜😜😜
+- 😜😜😜 If You want to Waste your Money, Just Send it to My QR Code Above 😜😜😜 -
