@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rana Universe</h1>
 <h2 align = "center"> Welcome to my Universe </h2>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmaFRb1WCFvJXGTW068tP3QRy9459L-L84CGVD4i1YDrBIuq5zwBrkowujrwBOMT7CRo&usqp=CAU" alt="Profile Picture" width="200"/>
+</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [My Own Universe](https://t.me/RanaUniverse)
