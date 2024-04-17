@@ -2,7 +2,7 @@
 <h2 align = "center"> Welcome to my Universe </h2>
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img allign="center" alt = "Manik apple" width = "200" src = "https://te.legra.ph/file/42ee0fde7029b898d228c.jpg">
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
