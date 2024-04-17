@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rana Universe</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Rana Universe</h1>
+
 <h2 align = "center"> Welcome to my Universe </h2>
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
