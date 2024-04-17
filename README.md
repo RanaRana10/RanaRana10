@@ -5,17 +5,17 @@
 
 <img align="center" alt="Rana Universe 🍌🍌🍌" src="https://te.legra.ph/file/8b6874766e0396edaf2d4.png">
 
-- 🌱 I’m currently learning **Making my Own Universe 💪**
+- 🌱 I’m currently Finding the Path of Happiness in My Universe
 
 - 💬 Message Me about anything in My [**Telegram Account**](https://t.me/RanaUniverse)
 
-- 📫 My Email Address: **RanaUniverse321@gmail.com**
+- 📫 My Email Address: **RanaUniverse321@gmail.com** 📫
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me Just For Fun:</h3>
 <p align="left">
-<a href="https://fb.com/RanaUniverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rana Universe Facebook" height="30" width="40" /></a>
+<a href="https://fb.com/RanaUniverse" target="blank"><img align="center" src="https://te.legra.ph/file/8482deb70819cd39b9dd0.png" alt="Rana Universe Facebook" height="30" /></a>
 <br><br>
-<a href="https://www.youtube.com/@RanaUniverse123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Rana Universe Youtube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@RanaUniverse123" target="blank"><img align="center" src="https://te.legra.ph/file/ab4d5b95adb7caf10e551.png" alt="Rana Universe Youtube" height="30"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a>
     <br>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/assets/images/apple-touch-icon.png" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-EE46F1FE44-seeklogo.com.png" alt="kotlin" height="50"/> </a>
 </p>
 
 <img align="center" alt="Rana Universe 🍌🍌🍌" width="400" src="https://te.legra.ph/file/e92f33d0a271dc2e7ac71.png">
