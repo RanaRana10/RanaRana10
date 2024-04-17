@@ -23,7 +23,7 @@
   This is The Some Programming Language Loved By 🍌🍌🍌
 </p>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="50" height="50"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a>
     <br>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
