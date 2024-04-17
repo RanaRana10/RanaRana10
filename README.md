@@ -2,7 +2,7 @@
 <h2 align = "center"> Welcome to my Universe </h2>
 <p align="center">
 <div style="text-align: center;">
-  <img src="https://via.placeholder.com/1200x400" style="width: 100%; max-width: 1000px;">
+  <img src="https://via.placeholder.com/1200x400" style="width: 100">
 </div>
 
 </p>
