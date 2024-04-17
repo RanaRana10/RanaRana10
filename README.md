@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Making my Own Universe 💪**
 
-- 💬 Message Me about anything in **Telegram Account**(https://t.me/RanaUniverse)
+- 💬 Message Me about anything in [**Telegram Account**](https://t.me/RanaUniverse)
 
 - 📫 My Email Address: **RanaUniverse321@gmail.com**
 
