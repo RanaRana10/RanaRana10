@@ -21,6 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
   This is The Some Programming Language Loved By 🍌🍌🍌
   <br>
+- 💬 Message Me about anything in My [**Telegram Account**](https://t.me/RanaUniverse)
+  <br>
   [**Razorblade23**](https://github.com/razorblade23)
   [**Telegram Account**](https://t.me/RanaUniverse)
 <p align="left">
