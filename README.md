@@ -23,6 +23,9 @@
   This is The Some Programming Language Loved By 🍌🍌🍌
   <br>
   <h2>[**Razorblade23**](https://github.com/razorblade23)</h2>
+  <br>
+  <h2><a href="https://github.com/razorblade23">**Razorblade23**</a></h2>
+
 </p>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a>
