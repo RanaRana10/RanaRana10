@@ -1,3 +1,5 @@
+<h1><span style="color: red;">Hi 👋, I'm Rana Universe</span></h1>
+
 <div style="text-align: center;">
   <img src="https://via.placeholder.com/1200x400" style="width: 100%; max-width: 1000px;">
 </div>
