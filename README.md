@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋👋👋<br>🍌🍌🍌 Rana Universe 🍌🍌🍌</h1>
 <h3 align="center">I am a Noob Person 😜😜😜</h3>
 
+<img align="right" alt="Rana Universe 🍌🍌🍌" width="400" src="https://te.legra.ph/file/8b6874766e0396edaf2d4.png">
+
 - 🔭 I’m currently working on [My Own Universe](https://t.me/RanaUniverse)
   
 - 🌱 I’m currently learning **Making my Own Universe 💪**
